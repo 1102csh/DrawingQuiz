@@ -50,3 +50,10 @@
 5. **게임 종료 후**: 15라운드가 끝나면 점수판을 통해 유저들의 점수를 확인하고, **다음 게임**을 시작할 수 있습니다.
 
 ---
+
+## 프로젝트 미리보기
+
+![image](https://github.com/user-attachments/assets/7a6f813e-912b-4877-a715-41ecea36a462)
+<br>
+![image](https://github.com/user-attachments/assets/21289415-2a0d-443d-b67d-34f82a3d6dcc)
+
