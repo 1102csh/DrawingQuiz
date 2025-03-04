@@ -1,4 +1,4 @@
-<h1 align="center">🎨 DrawingQuiz ( 2022. 11 )</h1>
+<h1 align="center">🎨 DrawingQuiz ( 2022. 11. )</h1>
 
 <p align="center">
   <strong>Java로 제작한 소켓 통신을 활용한 스케치 퀴즈 게임</strong>
