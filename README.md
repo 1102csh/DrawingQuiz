@@ -61,6 +61,11 @@
 
 ---
 
+## 시연 영상
+https://www.youtube.com/watch?v=SVk8QZcNw8A
+
+---
+
 ## 프로젝트 미리보기
 
 ![image](https://github.com/user-attachments/assets/7a6f813e-912b-4877-a715-41ecea36a462)
